@@ -18,7 +18,6 @@ Visit the [Design Library](https://canvas.acu.edu.au/courses/26333/modules) for 
 | Image-carousel | `Image-carousel.html` | 2-5 images |
 
 ## Best Practices
-- **Keep HTML clean**: Remove unnecessary `<div>` wrappers.
 - **Test snippets**: Use Canvas' Student View before publishing.
 - **Mobile-friendly design**: Ensure snippets work on smaller screens.
 
