@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains commonly used HTML snippets for our online courses in Canvas LMS. These snippets help maintain consistency and improve student experience.
+Visit the [Design Library](https://canvas.acu.edu.au/courses/26333/modules) for instructions on how to use these elements in our courses.
 
 ## How to Use
 1. Browse the `main` folder for the code you need.
